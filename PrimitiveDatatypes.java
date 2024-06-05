@@ -68,5 +68,21 @@ public class PrimitiveDatatypes {
         long t=(long)b;
         System.out.println("float to long "+t);
         System.out.println("-------------------------------------------------");
+        
+
+
+        //check the range of the datatypes
+        int a1=129;
+        System.out.println("int value is "+a1);
+        byte b1=(byte)a1;
+        System.out.println("byte value is "+b1);
+
+        double c1=10.5;
+        System.out.println("double value is "+c1);
+        int d1=(int)c1;
+        System.out.println("int value is "+d1);
+
+
+        System.out.println("-------------------------------------------------");
     }
 }
