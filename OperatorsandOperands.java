@@ -7,12 +7,12 @@ public class OperatorsandOperands {
         // a, b -> operands
         System.out.println("Enter values to Add: ");
 
-        int a=in.nextInt();
-        int b=in.nextInt();
+        int x=in.nextInt();
+        int y=in.nextInt();
         // + -> operator
-        int c=a+b;
+        int c=x+y;
         // = -> assignment operator
-        System.out.println("Sum of a and b is: "+c);
+        System.out.println("Sum of both is: "+c);
 
 
         // Increment and Decrement Operators
@@ -28,6 +28,6 @@ public class OperatorsandOperands {
         int m=in.nextInt();
         int n=m++;
         --n;
-        System.out.println("Value of n is: "+n);
+        System.out.println("Value of m after increment and decrement is: "+n);
     }
 }
