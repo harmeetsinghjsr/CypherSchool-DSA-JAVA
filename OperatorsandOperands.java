@@ -7,7 +7,7 @@ public class OperatorsandOperands {
         // a, b -> operands
         System.out.println("Enter values to Add: ");
 
-        int a=in.nextInt()
+        int a=in.nextInt();
         int b=in.nextInt();
         // + -> operator
         int c=a+b;
@@ -17,6 +17,8 @@ public class OperatorsandOperands {
 
         // Increment and Decrement Operators
         System.out.println("Enter A and B values: ");
+        int a=in.nextInt();
+        int b=in.nextInt();
         a++;
         System.out.println("Value of a after postfix increment is: "+a);
         --b;
