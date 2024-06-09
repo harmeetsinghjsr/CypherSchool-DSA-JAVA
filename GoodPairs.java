@@ -1,3 +1,4 @@
+//1512. Number of Good Pairs
 //Leetcode question: https://leetcode.com/problems/number-of-good-pairs/
 public class GoodPairs {
     public static int countGoodPairs(int[] nums) {
