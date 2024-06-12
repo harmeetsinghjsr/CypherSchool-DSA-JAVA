@@ -33,6 +33,7 @@ class HomeLoan extends Loan
         super.show();
         System.out.println("Rate of interest is: "+super.rate);
     }
+}
 public class Super {
     public static void main(String[] args) {
         HomeLoan obj = new HomeLoan(8);
