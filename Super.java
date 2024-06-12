@@ -37,6 +37,10 @@ class HomeLoan extends Loan
 public class Super {
     public static void main(String[] args) {
         HomeLoan obj = new HomeLoan(8);
+        HomeLoan ob = new HomeLoan();
+        Loan obj1 = new Loan(9);
         obj.show();
+        ob.show();
+        obj1.show();
     }
 }
