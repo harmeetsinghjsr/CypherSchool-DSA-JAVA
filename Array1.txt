@@ -1,0 +1,3 @@
+An array is a data structure that stores a fixed-size sequence of elements of the same type. Each element in the array is accessed by its index, which represents its position in the sequence. Arrays are commonly used in programming to store and manipulate collections of data efficiently.An array is a data structure that stores a fixed-size sequence of elements of the same type. Each element in the array is accessed by its index, which represents its position in the sequence. Arrays are commonly used in programming to store and manipulate collections of data efficiently.
+Arrays structures
+int[] numbers = {1, 2, 3, 4, 5};
