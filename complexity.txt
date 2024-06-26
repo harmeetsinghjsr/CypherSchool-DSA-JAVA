@@ -1,0 +1,13 @@
+Big oh notation (O) 
+Big oh notation is used to describe asymptotic upper bound. 
+It is define as upper bound and upper bound on an algorithm is the most amount of time required ( the worst case performance).
+0 <= f(n) <= Cg(n) for all n >= n0
+
+Big Omega notation (Ω) 
+Big Omega notation provides asymptotic lower bound. 
+It is define as lower bound and lower bound on an algorithm is the least amount of time required ( the most efficient way possible, in other words best case).
+0 <= Cg(n) <= f(n) for all n >= n0
+
+Big Theta notation (Θ) 
+It is define as tightest bound and tightest bound is the best of all the worst case times that the algorithm can take.
+0 <= C2g(n) <= f(n) <= C1g(n) for n >= n0
