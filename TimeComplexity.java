@@ -34,7 +34,7 @@ public class TimeComplexity {
         long end = System.currentTimeMillis();
         System.out.println("Time by RAM's approach: "+(end-start));
         start = System.currentTimeMillis();
-        System.out.println(isPrimeSham(n));
+        System.out.println(isPrimeShyam(n));
         end = System.currentTimeMillis();
         System.out.println("Time by SHAM's approach: "+(end-start));
     }
