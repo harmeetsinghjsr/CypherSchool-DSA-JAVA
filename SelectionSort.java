@@ -2,7 +2,7 @@ import java.util.*;
 public class SelectionSort {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
-        System.out.println("Enter the number of elements in the array: "+n);
+        System.out.println("Enter the number of elements in the array: ");
         int n=in.nextInt();
         System.out.println("Enter the elements of the array: ");
         int arr[]=new int[n];
