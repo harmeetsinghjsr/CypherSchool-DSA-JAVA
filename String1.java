@@ -20,15 +20,15 @@ System.out.println(s1);
 String s2= new String("Hello");
 String s3= new String("People");
 s2= s2.concat(s3);
-System.out.println(s4);
+System.out.println(s3);
 System.out.println(s2);
 
 System.out.println("*******************");
 
 System.out.println("CHECKING STRINGS ARE EQUAL IN VALUE");
 
-System.out.println(Name.equals(name2));
-System.out.println(Name.equals(name3));
+System.out.println(name.equals(name2));
+System.out.println(name.equals(name3));
 
 System.out.println("*******************");
 
