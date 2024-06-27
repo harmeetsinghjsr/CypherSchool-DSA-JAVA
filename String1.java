@@ -19,7 +19,7 @@ System.out.println(s1);
 
 String s2= new String("Hello");
 String s3= new String("People");
-s2= s4.concat(s3);
+String s4= s2.concat(s3);
 System.out.println(s4);
 System.out.println(s2);
 
