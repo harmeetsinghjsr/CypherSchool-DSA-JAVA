@@ -54,5 +54,18 @@ System.out.println(name.toLowerCase());
 System.out.println(name.toUpperCase());
 System.out.println(name);
 
+System.out.println("*******************");
+
+System.out.println("6) Splitting strings");
+String ss = "Hello, I am a string";
+String[] strArr = ss.split(" ");
+for(String s: strArr)
+{
+System.out.println(s);
+}
+
+System.out.println("*******************");
+
+
 }
 }
