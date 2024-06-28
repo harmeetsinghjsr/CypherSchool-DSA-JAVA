@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/defuse-the-bomb/submissions/1296677528
 public class DefuseTheBomb {
     public int[] decrypt(int[] code, int k) {
         int n = code.length;
@@ -30,4 +31,3 @@ public class DefuseTheBomb {
         }
     }
 }
-https://leetcode.com/problems/defuse-the-bomb/submissions/1296677528
