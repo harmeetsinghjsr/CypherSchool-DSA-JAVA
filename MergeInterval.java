@@ -1,3 +1,4 @@
+import java.util.*;
 public class MergeInterval {
     public int[][] merge(int[][] intervals)
     {
