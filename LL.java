@@ -1,4 +1,5 @@
 public class LL {
+    Node head;
     private int size;
     LL()
     {
@@ -117,6 +118,6 @@ public class LL {
         list.deleteAtPos(2);
         list.Traverse();
         System.out.println("Size of list is: "+list.getSize());
-        
+
     }
 }
